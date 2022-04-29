@@ -1,0 +1,27 @@
+{
+  "name": "fem_intro_to_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simzeee/FEM_Intro_To_React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simzeee/FEM_Intro_To_React/issues"
+  },
+  "homepage": "https://github.com/simzeee/FEM_Intro_To_React#readme",
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
