@@ -7,10 +7,7 @@ const App = () => {
   return (
     <div>
       <h1>Adopt Me!</h1>
-      <Pet name="Luna" animal="Dog" breed="Havanese"></Pet>
-      <Pet name="Eddy" animal="Dog" breed="Toy Poodle"></Pet>
-      <Pet name="Kitty" animal="Cat" breed="Street Cat"></Pet>
-      <SearchParams/>
+      <SearchParams />
     </div>
   );
 };
